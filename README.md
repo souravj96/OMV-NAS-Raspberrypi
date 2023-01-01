@@ -32,7 +32,7 @@ open a ssh client like [putty](https://www.putty.org/) or open the terminal and 
 ```
 ssh pi@YOUR_PI_HOST_NAME.local
 ```
-type the password you gave at [STEP 1](https://github.com/souravj96/OMV-NAS-Raspberrypi/edit/main/README.md#step-1-preaper-sd-card)
+type the password you gave at [STEP 1](https://github.com/souravj96/OMV-NAS-Raspberrypi#step-1-preaper-sd-card)
 
 ***If you can't connect to your pi with host name then login to your router and find the IP address of the pi and use that ip instead of HOST_NAME***
 
